@@ -46,24 +46,21 @@ The process is initiated upon receipt of a request for a certification document 
 ## Process Flow - Electronic Certification
 
 1.  Receive the request for electronic export documentation from the customer
-2.  Verify that the template has been filled out correctly
-3.  Issue a certificate number
-4.  Electronically sign and stamp the document
-5.  Email an electronic copy to the customer
-6.  Create and issue an invoice
-7.  Store an electronic copy in a secure location
-8.  End of Export Document Certification Process
+2.  Log in to essCert and verify that the template has been filled out correctly
+3.  Electronically sign and stamp the document
+4.  End of Export Document Certification Process
 
 ## Process Flow - Wet-Stamp Certification
 
-1.  Receive the request for wet-stamp export documentation from the customer
-2.  Verify that the template has been filled out correctly
-3.  Issue a certificate number
-4.  Wet-stamp and sign the document in blue ink
-5.  Scan and email an electronic copy to the customer
-6.  Create and issue an invoice
-7.  File the hard copy in the black expanding file next to the administration desk
-8.  End of Export Document Certification Process
+1.  Request received from Customer for Export Documentation.
+2.	Verify that template has been filled out correctly. A guide can be found here.
+3.	Issue Certificate Number. Numbers are found at \Documents - Admin\Certifications.
+4.	Stamp and sign document in BLUE ink.
+5.	Scan and email electronic copy to customer.
+6.	Create and issue invoice. GrowthZone > Contact > Billing > Add invoice. **Ensure correct item is selected, pricing is different for members vs non-members.**
+7.	File hard copy in the black expanding file next to the administration desk.
+8.	Export Document Certification Process ends.
+
 
 ## Output
 
@@ -73,8 +70,7 @@ The process is initiated upon receipt of a request for a certification document 
 ## Exceptions
 
 1.  If the customer has not used the MCC for export documentation previously, the following documents must be received and uploaded to the customer file prior to issuing any export documentation:
-
--   Indemnity form
+    -   Indemnity form
 
 2.  If the customer requests a reissue of a certificate
 
